@@ -1,0 +1,17 @@
+C:\Users\rasmu\source\repos\ProgEksamImplemenAfFunktioner\ProgEksamImplemenAfFunktioner\obj\Debug\ProgEksamImplemenAfFunktioner.csproj.AssemblyReference.cache
+C:\Users\rasmu\source\repos\ProgEksamImplemenAfFunktioner\ProgEksamImplemenAfFunktioner\obj\Debug\ProgEksamImplemenAfFunktioner.Properties.Resources.resources
+C:\Users\rasmu\source\repos\ProgEksamImplemenAfFunktioner\ProgEksamImplemenAfFunktioner\obj\Debug\ProgEksamImplemenAfFunktioner.csproj.GenerateResource.cache
+C:\Users\rasmu\source\repos\ProgEksamImplemenAfFunktioner\ProgEksamImplemenAfFunktioner\obj\Debug\ProgEksamImplemenAfFunktioner.csproj.CoreCompileInputs.cache
+C:\Users\rasmu\source\repos\ProgEksamImplemenAfFunktioner\ProgEksamImplemenAfFunktioner\bin\Debug\ProgEksamImplemenAfFunktioner.exe.config
+C:\Users\rasmu\source\repos\ProgEksamImplemenAfFunktioner\ProgEksamImplemenAfFunktioner\bin\Debug\ProgEksamImplemenAfFunktioner.exe
+C:\Users\rasmu\source\repos\ProgEksamImplemenAfFunktioner\ProgEksamImplemenAfFunktioner\bin\Debug\ProgEksamImplemenAfFunktioner.pdb
+C:\Users\rasmu\source\repos\ProgEksamImplemenAfFunktioner\ProgEksamImplemenAfFunktioner\bin\Debug\MathNet.Numerics.dll
+C:\Users\rasmu\source\repos\ProgEksamImplemenAfFunktioner\ProgEksamImplemenAfFunktioner\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rasmu\source\repos\ProgEksamImplemenAfFunktioner\ProgEksamImplemenAfFunktioner\bin\Debug\System.ValueTuple.dll
+C:\Users\rasmu\source\repos\ProgEksamImplemenAfFunktioner\ProgEksamImplemenAfFunktioner\bin\Debug\MathNet.Numerics.xml
+C:\Users\rasmu\source\repos\ProgEksamImplemenAfFunktioner\ProgEksamImplemenAfFunktioner\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rasmu\source\repos\ProgEksamImplemenAfFunktioner\ProgEksamImplemenAfFunktioner\bin\Debug\System.ValueTuple.xml
+C:\Users\rasmu\source\repos\ProgEksamImplemenAfFunktioner\ProgEksamImplemenAfFunktioner\obj\Debug\ProgEksamImplemenAfFunktioner.csproj.CopyComplete
+C:\Users\rasmu\source\repos\ProgEksamImplemenAfFunktioner\ProgEksamImplemenAfFunktioner\obj\Debug\ProgEksamImplemenAfFunktioner.exe
+C:\Users\rasmu\source\repos\ProgEksamImplemenAfFunktioner\ProgEksamImplemenAfFunktioner\obj\Debug\ProgEksamImplemenAfFunktioner.pdb
+C:\Users\rasmu\source\repos\ProgEksamImplemenAfFunktioner\ProgEksamImplemenAfFunktioner\obj\Debug\ProgEksamImplemenAfFunktioner.Form1.resources
